@@ -1,0 +1,12 @@
+{
+  "name": "sweetwater",
+  "version": "1.0.0",
+  "description": "Sweetwater (sweetwater.com) marketplace research: price, stock, item ID, open-box and Gear Exchange offers, with cache-age discipline because live pages sit behind a bot wall.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Sweetwater-Plugin",
+  "license": "MIT",
+  "keywords": ["sweetwater", "marketplace", "price-check", "stock", "pro-audio", "music-gear", "open-box", "gear-exchange", "shopping"]
+}
